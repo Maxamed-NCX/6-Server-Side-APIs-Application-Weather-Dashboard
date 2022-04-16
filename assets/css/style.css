@@ -1,0 +1,81 @@
+* {
+  border: 0;
+}
+
+nav {
+  background: linear-gradient(35deg, purple, blue);
+  text-align: center;
+  padding: 10px auto;
+  color: white;
+  font-weight: 900;
+  font-size: large;
+}
+nav h1 {
+  padding: 10px;
+}
+/* .container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 10px;
+  margin: 0 auto;
+} */
+
+/* .col1 {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  border: 2px solid black;
+} */
+
+/* .col2 {
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  border: 2px solid black;
+} */
+
+#clear {
+  margin: 10px;
+  display: block;
+  position: relative;
+  align-self: flex-end;
+  width: 100%;
+}
+
+.search-column{
+  background-color:	#D3D3D3;
+  border: 2px solid rgb(20, 145, 202);
+  padding: 15px;
+}
+
+.list-group-item{
+  line-height: 0.5;
+  border: none;
+  border: 2px solid rgb(134, 15, 15);
+  padding: 15px;
+}
+.card-body{
+  flex:auto
+  border: 2px solid black;
+}
+
+
+span.favorable{
+  padding: 2-color: blue;
+  color:black;
+  border: 2px solid rgb(37, 182, 34);
+}
+
+span.moderate{
+  padding: 2px;
+  background-color: rgb(38, 255, 0);
+  border: 2px solid rgb(153, 23, 103);
+}
+
+span.severe{
+  padding: 2px;
+  background-color: red;
+  color:white;
+  border: 2px solid rgb(17, 33, 140)7, 33, 140);
+}
