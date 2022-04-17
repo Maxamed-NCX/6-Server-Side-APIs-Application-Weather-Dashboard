@@ -16,6 +16,7 @@ To create a Weather Dashboard that fetches from a weather API and displays the c
   - Enter in City
   - Displays current weather forcast 
   - Displays next 5-Days forcast
+
 - Search History Functions
   - Click on previous search to view again
   - Clear all weather data forcast
@@ -24,13 +25,13 @@ To create a Weather Dashboard that fetches from a weather API and displays the c
 
 - HTML (HyperText Markup Language)
 - CSS (Cascading Style Sheets)/ BootStrap
-- JS (JavaScript)/
+- JS (JavaScript)
 
 #### Credits
 
 - MCX
-  - HTML & CSS Starter Codes
-  - JS Program Function codes
+  - HTML & CSS Codes
+  - JS Program codes
 
 #### Site
 
@@ -46,4 +47,4 @@ To create a Weather Dashboard that fetches from a weather API and displays the c
 <img width="400" alt="5-day-forcast" src="https://raw.githubusercontent.com/Mcnoor/Challenge-6-BC/main/imgs/5-day-forcast.png">
 
 
-#### Thank you
+#### Thank you for visiting
