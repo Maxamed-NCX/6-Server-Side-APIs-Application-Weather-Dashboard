@@ -35,20 +35,15 @@ To create a Weather Dashboard that fetches from a weather API and displays the c
 #### Site
 
 - GitHub Public Repo
-  - https://github.com/Mcnoor/Challenge4-BC
+  - https://github.com/Mcnoor/Challenge-6-BC
 - GitHub Page Link
-  - https://mcnoor.github.io/Challenge4-BC/
+  - https://mcnoor.github.io/Challenge-6-BC/
 
 #### images
 
-<img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge5-BC-/0742b5255ac38ccee370062811c9f951bcef597b/images/bottom%20of%20scheduler.png">
+<img width="400" alt=" Weather board" src="https://raw.githubusercontent.com/Mcnoor/Challenge-6-BC/main/imgs/Weather%20board.png">
 
-<img width="400" alt="Anwser Selection " src="https://raw.githubusercontent.com/Mcnoor/Challenge4-BC/main/Assest/2.%20Anwser-selection.png">
+<img width="400" alt="5-day-forcast" src="https://raw.githubusercontent.com/Mcnoor/Challenge-6-BC/main/imgs/5-day-forcast.png">
 
-<img width="400" alt="Correct Anwser" src="https://raw.githubusercontent.com/Mcnoor/Challenge4-BC/main/Assest/3.%20Correct-anwser.png">
-
-<img width="400" alt="Incorrect Anwser" src="https://raw.githubusercontent.com/Mcnoor/Challenge4-BC/main/Assest/4.%20Incorrect-anwser.png">
-
-<img width="400" alt="Quiz Completed" src="https://raw.githubusercontent.com/Mcnoor/Challenge4-BC/main/Assest/5.%20Quiz-complete.png">
 
 #### Thank you
