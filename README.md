@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge-6-BC)
 ![GitHub top language](https://img.shields.io/github/languages/top/Mcnoor/Challenge-6-BC)
 
-## UofM BootCamp: Challenge 6
+## UofM BootCamp: Application 6
 Server-Side APIs Challenge: Weather Dashboard
 
 ### Purpose
